@@ -25,4 +25,5 @@ public class UserShip extends Group {
 		line3.setStroke(Color.WHITE);
 		getChildren().addAll(line1, line2, line3);
 	}
+	
 }
