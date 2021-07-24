@@ -19,8 +19,7 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 /**
  * @copyright 한국기술교육대학교 컴퓨터공학부 객체지향개발론및실습
- * @version 2020년도 2학기 
- * @author 2016136035 노기현
+ * @author 노기현
  * 팩토리 메소드 패턴: Asteroid
  * AsteroidsGame.java: Asteroid 게임
  * Asteroid 게임 중 소행성 등장하는 부분만 구현
